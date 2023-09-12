@@ -9,7 +9,7 @@ class Main {
       case 2:
         System.out.println("中吉です");
         break;
-      // defaultを用いて、変数nの値がどのcaseにも合致しない場合の処理を記述してください
+      // defaultを用いて、変数nの値がどのcaseにも合致しない場合の処理を記述
       default:
         System.out.println("凶です");
         break;
