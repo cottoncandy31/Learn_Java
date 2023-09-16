@@ -15,7 +15,7 @@ public class FizzBuzz {
     String strFizz = "Fizz";
     // Buzz文字列
     String strBuzz = "Buzz";
-    
+
     for (i = 1; i <= loopCount; i++) {
       if (i % (numFizz * numBuzz) == 0) {
         System.out.println(strFizz + strBuzz);
@@ -27,6 +27,6 @@ public class FizzBuzz {
         System.out.println(i);
       }
     }
-    
+
   }
 }
