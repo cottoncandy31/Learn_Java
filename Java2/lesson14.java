@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    String[] names = {"にんじゃわんこ", "ひつじ仙人", "ベイビーわんこ"};
+    String[] names = {"Hanako", "Taro", "Jiro"};
     
     // 配列用のfor文を用いて、「私の名前は◯◯です」と出力
     for (String name : names) {
